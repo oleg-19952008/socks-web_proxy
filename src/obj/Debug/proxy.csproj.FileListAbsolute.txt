@@ -1,0 +1,4 @@
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication4\bin\Debug\web_socks proxy.exe.config
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication4\bin\Debug\web_socks proxy.exe
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication4\bin\Debug\core.title.dll
+c:\users\123\documents\visual studio 2015\Projects\ConsoleApplication4\obj\Debug\web_socks proxy.exe
